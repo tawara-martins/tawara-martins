@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/tawara-martins/tawara-martins/assets/139289318/18167aa5-16dd-4bee-8825-a6ef9c322c5d" height="290">
+  <img src="https://github.com/tawara-martins/tawara-martins/assets/139289318/97c02f96-b906-44aa-8016-6796c6f71c86" height="290">
 </div>
 
 
