@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Tawara
+# 👋 Olá, mundo!
 
 
 <div align="center">
@@ -6,11 +6,29 @@
 </div>
 
 
+## ✨ Sobre mim ✨
+Me chamo Tawara Martins, tenho 24 anos, moro em Valparaíso de Goiás-GO, sou graduada em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Técnico em Informática para Internet no Instituto Federal Sul de Minas.
 
+<hr>
 
-- 👀 I’m interested in JavaScript, Mobile and Java
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on open source
+🫂 Faço trabalho voluntário.
+
+🧠 Estou aprendendo JavaScript.
+
+👯‍♀️ Procuro colaborar com documentações (por enquanto rs).
+
+🤔 Procuro ajuda com JavaScript, estágios e portfólio.
+
+💬 Me pergunte sobre HTML, CSS, Git e JavaScript.
+
+📫 Como entrar em contato comigo tawaramartinsaraujo@gmail.com
+
+⚡️ Curiosidades
+
+- Adoro filmes e tudo relacionado a heróis.
+- Gosto de meditar.
+- Sou fascinada por astronomia.
+- Curto uns rock pesado.
 
 
 <!---
