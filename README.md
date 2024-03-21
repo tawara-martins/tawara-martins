@@ -7,15 +7,13 @@
 
 
 ## ✨ Sobre mim ✨
-Me chamo Tawara Martins, tenho 24 anos, moro em Valparaíso de Goiás-GO, sou graduada em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Técnico em Informática para Internet no Instituto Federal Sul de Minas.
+Me chamo Tawara Martins, tenho 24 anos, moro em Valparaíso de Goiás-GO, sou graduada em Análise e Desenvolvimento de Sistemas.
 
 <hr>
 
 🫂 Faço trabalho voluntário.
 
 🧠 Estou aprendendo JavaScript.
-
-👯‍♀️ Procuro colaborar com documentações (por enquanto rs).
 
 🤔 Procuro ajuda com JavaScript, estágios e portfólio.
 
