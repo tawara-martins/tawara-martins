@@ -25,6 +25,7 @@ Me chamo Tawara Martins, tenho 26 anos, moro em Valparaíso de Goiás-GO, sou gr
 
 - Adoro filmes e tudo relacionado a heróis.
 - Gosto de meditar.
+- Gosto de ler mangás e livros de ficção científica e fantasia
 - Sou fascinada por astronomia.
 - Curto uns rock pesado.
 
